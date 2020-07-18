@@ -39,5 +39,5 @@
 
   ​			`Salary = a + b * Experience`
 
-  ​		![](C:\Users\BKP\Desktop\1 Simple_linear_regression.JPG)
+  ​		![1 Simple_linear_regression](C:\Users\BKP\Desktop\1 Simple_linear_regression.JPG)
 
