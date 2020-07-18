@@ -39,5 +39,5 @@
 
   ​			`Salary = a + b * Experience`
 
-  ​		![1 Simple_linear_regression](C:\Users\BKP\Documents\GitHub\Part-2-Regression\Screenshots\1 Simple_linear_regression.JPG)
+  ​		
 
