@@ -1,3 +1,7 @@
+---
+typora-root-url: Screenshots
+---
+
 # Part 2 Regression
  Regression with Python :-
 
@@ -39,5 +43,5 @@
 
   ​			`Salary = a + b * Experience`
 
-  ​		![1 Simple_linear_regression](C:\Users\BKP\Desktop\1 Simple_linear_regression.JPG)
+  ​		![](/1 Simple_linear_regression.JPG)
 
