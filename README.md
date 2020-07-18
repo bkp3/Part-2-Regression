@@ -27,18 +27,17 @@
 
   ​			`y = a + b * x`
 
-  ​			
+  ​			y = Dependent Variable
 
-  ​			y = dependent variable
+  ​			a = Constant
 
-  ​			a = constant
+  ​			b = Co-efficient
 
-  ​			b = co-efficient
-
-  ​			x = independent variable
+  ​			x = Independent Variable
 
   ​	eg. 
 
-  ​			`salary = a + b * experience`
+  ​			`Salary = a + b * Experience`
 
-  ​		
+  ​		![](C:\Users\BKP\Desktop\1 Simple_linear_regression.JPG)
+
